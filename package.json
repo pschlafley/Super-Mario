@@ -1,0 +1,23 @@
+{
+  "name": "super-mario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pschlafley/Super-Mario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pschlafley/Super-Mario/issues"
+  },
+  "homepage": "https://github.com/pschlafley/Super-Mario#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
